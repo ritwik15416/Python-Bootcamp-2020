@@ -1,3 +1,5 @@
+# Cannot be played continously.
+
 from random import randrange
 board =  [' ' for i in range(10)]
 def printBoard(board):
